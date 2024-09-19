@@ -1,7 +1,7 @@
 ![Readme Banner](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi, I'm Ayush <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> !</h1>
-<p align="center"><img src="hello.gif" height="275px" width="400"></p>
-<h2><img src="girl icon.png" height="30px" width="30px"> About Me</h2>
+<p align="center"><img src="hello.gif" height="295px" width="420"></p>
+<h2><img align="center" src="https://github.com/user-attachments/assets/87116c50-388f-4f34-8fee-5da87a8e61e5" height="30px" width="30px"> About Me</h2>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ayushdeshmukh8830@gmail.com**
 
-<h2><img src="handshake.png" height="32px" width="42px"> Connect with Me</h2>
+<h2><img align="center" src="https://github.com/user-attachments/assets/93122817-2ffc-41ee-b15d-d37836a4adfe" height="32px" width="42px"> Connect with Me</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/ayush-deshmukh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayush Deshmukh" height="30" width="40" /></a>
 <!--  <a href="https://twitter.com/thesrushty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesrushty" height="30" width="40" /></a> -->
@@ -21,7 +21,7 @@
 <!-- <a href="https://dribbble.com/sciver45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sciver45" height="30" width="40" /></a> -->
 </p>
 
-<h2><img src="tools.png" height="28px" width="35px"> Languages , Frameworks & Tools</h2>
+<h2><img src="https://github.com/user-attachments/assets/4f494d33-5602-4a37-b454-648e6514caee" height="28px" width="35px"> Languages , Frameworks & Tools</h2>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -48,7 +48,7 @@
 <a href="https://jupyter.org/ target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="figma" width="40" height="40"/></a>
 </p>
 
-<h2><img src="github stats.png" height="40px" width="25px"> Github Stats</h2>
+<h2><img src="https://github.com/user-attachments/assets/562fc747-66e5-473b-9e4a-932197a4fa32" height="40px" width="38px"> Github Stats</h2>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srushti1hub&show_icons=true&locale=en&layout=compact" alt="srushti1hub" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srushti1hub&" alt="srushti1hub" height ="165px"/></p>
  -->
 Ayush1Deshmukh/Ayush1Deshmukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
