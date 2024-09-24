@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ayushdeshmukh8830@gmail.com**
 
-<h2><img align="center" src="https://github.com/user-attachments/assets/93122817-2ffc-41ee-b15d-d37836a4adfe" height="32px" width="42px"> Connect with Me</h2>
+<h2><img align="center" src="https://github.com/user-attachments/assets/1c066503-e467-47a0-9099-dded5a8b6e28" height="32px" width="42px"> Connect with Me</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/ayush-deshmukh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayush Deshmukh" height="30" width="40" /></a>
 <!--  <a href="https://twitter.com/thesrushty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesrushty" height="30" width="40" /></a> -->
