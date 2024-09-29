@@ -1,8 +1,9 @@
 ![Readme Banner](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center">Hi, I'm Ayush <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> !</h1>
-<p align="center"><img src="hello.gif" height="295px" width="420"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="4" width="999"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="" width="999"></p>
+<h1 align="center">Hi, I'm Ayush <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> !
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="" width="999"></p></h1>
 <h2><img align="center" src="https://github.com/user-attachments/assets/87116c50-388f-4f34-8fee-5da87a8e61e5" height="30px" width="30px"> About Me</h2>
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="220px" width="250px" align="right">
 
 - 🌱 I’m currently learning **Web Development**
 
