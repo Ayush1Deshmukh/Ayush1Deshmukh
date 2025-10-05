@@ -53,8 +53,6 @@
 <h2><img src="https://github.com/user-attachments/assets/562fc747-66e5-473b-9e4a-932197a4fa32" height="40px" width="38px"> Github Stats</h2>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srushti1hub&show_icons=true&locale=en&layout=compact" alt="srushti1hub" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srushti1hub&" alt="srushti1hub" height ="165px"/></p>
  -->
-Ayush1Deshmukh/Ayush1Deshmukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush1Deshmukh/Ayush1Deshmukh/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush1Deshmukh/Ayush1Deshmukh/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /> </picture>
