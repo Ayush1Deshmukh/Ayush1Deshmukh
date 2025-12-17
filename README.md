@@ -1,4 +1,6 @@
+![](https://komarev.com/ghpvc/?username=Ayush1Deshmukh&color=864879)
 ![Readme Banner](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="" width="999"></p>
 <h1 align="center">Hi, I'm Ayush <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> !
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="" width="999"></p></h1>
@@ -47,7 +49,6 @@
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/srushti1hub/portfolio/blob/main/assets/icons/metamask.png" alt="metamask" width="40" height="40" /></a> -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
-<a href="https://jupyter.org/ target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="figma" width="40" height="40"/></a>
 </p>
 
 <h2><img src="https://github.com/user-attachments/assets/562fc747-66e5-473b-9e4a-932197a4fa32" height="40px" width="38px"> Github Stats</h2>
